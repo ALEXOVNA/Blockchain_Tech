@@ -32,7 +32,10 @@ a repository for studying blockchain technology
  - [Сложность хэша блока](https://en.bitcoin.it/wiki/Difficulty)
 
 **Криптокошек**
+
+
  - [Скрипт: генерация адреса криптокошелька: Python](https://gist.github.com/tirinox/c058dfc6dd160c0cb4d95f69053104db)
 
 **Dev.Python**
 https://proglib.io/p/kak-python-primenyaetsya-v-blokcheyn-2021-03-19
+
